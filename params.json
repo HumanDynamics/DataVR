@@ -1,6 +1,6 @@
 {
   "name": "DataVR",
   "tagline": "",
-  "body": "# MIT/IAP Course on Data Driven VR\r\n\r\n## Web: http://DataVR.xyz\r\n## Twitter: #DataVR\r\n\r\nMore info coming soon...",
+  "body": "# DataVR\r\n\r\nSee: https://humandynamics.github.io/DataVR/\r\n\r\n# Resources:\r\n\r\n## A-Frame\r\n\r\n* INTRO: https://aframe.io/docs/0.3.0/introduction  -- A-Frame is an open-source WebVR framework for creating virtual reality (VR) experiences with HTML. We can build VR scenes that work across smartphones, desktop, the Oculus Rift, and the room-scale HTC Vive.\r\n\r\n* GITHUB:  https://github.com/aframevr/aframe/  A web framework for building virtual reality experiences. \r\n\r\n* BLOG:  https://aframe.io\r\n\r\n* AWESOME-AFRAME:  Listings of Awesome A-Frame Things: https://github.com/aframevr/awesome-aframe -- awesome-aframe Awesome: A collection of awesome things regarding A-Frame, a web framework for building virtual reality (VR) experiences.\r\n\r\n* Example with VR DOM: <a-collada-model src=\"#shark\" position=\"0 0 0\" rotation=\"0 10 0\" scale=\"0.41 0.41 0.41\" material=\"\" collada-model=\"#shark\" id=\"shark\"></a-collada-model>\r\n\r\n## ThreeJS\r\n\r\n* Complex: https://threejs.org/  (likely some good data viz up in here!)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
